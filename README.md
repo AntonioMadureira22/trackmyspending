@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Track My Spending - Budget Tracker
 
 # ScreenShots
 
